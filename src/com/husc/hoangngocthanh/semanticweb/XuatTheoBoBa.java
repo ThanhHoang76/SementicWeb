@@ -1,6 +1,6 @@
 /*
 *@author Thanhhoang
- @date  Jan 7, 2022
+ @date  Jan 5, 2022
 */
 package com.husc.hoangngocthanh.semanticweb;
 
